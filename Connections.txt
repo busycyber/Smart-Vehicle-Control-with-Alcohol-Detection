@@ -1,0 +1,24 @@
+/* Connection list as per the code final name : Code final.ino:-
+MQ-3 Alcohol Sensor:
+
+VCC to Arduino 5V
+GND to Arduino GND
+Analog Output to Arduino A0
+Buzzer:
+
+VCC to Arduino 5V
+GND to Arduino GND
+Signal to Arduino digital pin 9
+Neo-6M GPS Module:
+
+VCC to Arduino 5V
+GND to Arduino GND
+RX to Arduino TX (Pin 1)
+TX to Arduino RX (Pin 0)
+I2C LCD Display:
+
+SDA to Arduino SDA (Pin 20)
+SCL to Arduino SCL (Pin 21)
+VCC to Arduino 5V
+GND to Arduino GND
+*/
