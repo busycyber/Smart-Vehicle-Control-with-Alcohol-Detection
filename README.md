@@ -5,7 +5,7 @@ Prevent drunk driving and overspeeding with Arduino. Detects alcohol and speed; 
 
 This project is designed to prevent drunk driving and overspeeding, which are the two major causes of road accidents. It uses an Arduino microcontroller to detect alcohol levels in the driver's breath and the speed of the vehicle. If the alcohol level is above the limit, the vehicle will not start, and if the speed exceeds the limit, the vehicle will be slowed down automatically.
 
-## Components Required
+### Components Required
 Arduino Uno
 Alcohol Sensor Module
 Speed Sensor Module
@@ -20,7 +20,7 @@ Power Supply
 Circuit Diagram
 Circuit Diagram
 
-# Working
+### Working
 The alcohol sensor module detects alcohol levels in the driver's breath and sends the data to the Arduino. If the alcohol level is above the limit, the Arduino sends a signal to the motor driver module, which stops the DC motor from starting.
 
 The speed sensor module detects the speed of the vehicle and sends the data to the Arduino. If the speed exceeds the limit, the Arduino sends a signal to the motor driver module, which slows down the DC motor.
