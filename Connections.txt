@@ -1,4 +1,4 @@
-/* Connection list as per the code final name : Code final.ino:-
+Connection list as per the code final name (Final Code.ino):-
 MQ-3 Alcohol Sensor:
 
 VCC to Arduino 5V
@@ -21,4 +21,3 @@ SDA to Arduino SDA (Pin 20)
 SCL to Arduino SCL (Pin 21)
 VCC to Arduino 5V
 GND to Arduino GND
-*/
